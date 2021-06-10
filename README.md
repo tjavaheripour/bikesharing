@@ -9,9 +9,10 @@ https://public.tableau.com/app/profile/tahereh5082/viz/NYC_Citibike_162291935039
 
 ## Results
 
-
+1. Citi Bike Customers Overview indicate to the Total number of trips in Aguste about 2,344,224 and one of pie chart shows that majority of rides were recorded for Annual subscribers. Also we notice 65% of city bike users were male and 25% were females.
 ![1.png](https://github.com/tjavaheripour/bikesharing/blob/main/Resources/1.PNG)
 
+2. The highest-traffic starting/ending locations are in the most touristic and busy areas, as we see here in Manhattan may have more bike rides due to the number of tourists.
 ![2.png](https://github.com/tjavaheripour/bikesharing/blob/main/Resources/2.PNG)
 
 ![3.png](https://github.com/tjavaheripour/bikesharing/blob/main/Resources/3.PNG)
