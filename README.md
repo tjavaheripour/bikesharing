@@ -16,12 +16,13 @@ https://public.tableau.com/app/profile/tahereh5082/viz/NYC_Citibike_162291935039
 ![2.png](https://github.com/tjavaheripour/bikesharing/blob/main/Resources/2.PNG)
 
 3.We can see that most riders rent bikes for less than 60 minutes, with the highest duration of trips taking about 5 minutes, also we can see this trend by gender, Male users 
-
+![3a.png](https://github.com/tjavaheripour/bikesharing/blob/main/Resources/3a.PNG)
 
 4.It shows the most popular time for rides during weekday, Most rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM during working day. On the weekends most trip is from 9:00 AM to 6:00 PM.
 ![4.png](https://github.com/tjavaheripour/bikesharing/blob/main/Resources/4.PNG)
 
 5.This heatmap shows the number of bike trips by gender for each hour of each day of the week. It emphasize that majority of trips recorded by male. 
+![5a.png](https://github.com/tjavaheripour/bikesharing/blob/main/Resources/5a.PNG)
 
 6.This heatmap give us some information about which type of user and gender use bike for trip. We can see the most users are Male Subscriber who tend to use bikesharing service on Thursday and Friday.
 ![6.png](https://github.com/tjavaheripour/bikesharing/blob/main/Resources/6.PNG)
