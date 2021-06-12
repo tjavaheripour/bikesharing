@@ -28,5 +28,10 @@ https://public.tableau.com/app/profile/tahereh5082/viz/NYC_Citibike_162291935039
 ![6.png](https://github.com/tjavaheripour/bikesharing/blob/main/Resources/6.PNG)
 
 ## Summary
+Above visualizations show that the vast majority of riders are male subscribers and the busiest time for rentals is early in morning and early in evening. Furthermore, most trips are less than one hour, which may give us this hint that Citi Bike service could be used as an alternative to public transportation by commuting workers.
+Some additional visualizations :
+a breakdown of age of our customers
+visualize data for different months and seasons of the year to find the correlation between the weather
+
 
 
